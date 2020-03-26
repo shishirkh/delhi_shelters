@@ -12,6 +12,7 @@ List created by me using web scraping and regex matching. https://docs.google.co
 
 About the python code:-
 map_scrapper.py -> This scraps the map webpage of the Delhi Urban Shelter Improvement Board and collects the google maps links of all.
+
 raw_plus_maps_data_compiler.py -> This combines the raw data available at http://delhishelterboard.in/occupancy-report/index-ag2.php (like capacity,district of the shelter) with the google maps links.
 
 You can email me at shishir29121997@gmail.com for any queries. 
