@@ -1,6 +1,6 @@
 # Delhi Shelters
 
-Sharing the code for everyone to contribute and make use of the raw data provided by the gov.
+Sharing the code for everyone to contribute and get creative with the data.
 
 The Delhi Gov. has released a list of places where provisions of night shelters and free food has been made by them to help everyone in this difficult time. They have also released a maps web-page for giving the locations. Unfortunately they have not used Google Maps due to which Navigation and knowing the exact location is difficult.  I have used their list and maps web-pages to find and compile the Google maps links of the places. It will be helpful for anyone who wants to reach the place. I have also sorted it according to areas in Delhi.  
 
