@@ -10,7 +10,8 @@ Map webpage shared by the Delhi CM. http://delhishelterboard.in/night-shelter/ma
 
 List created by me using web scraping and regex matching. https://docs.google.com/spreadsheets/d/1GLmmmwmjGu77BI1-LeY7A-Zoekvm2sKnO8XpWCDPF_w/edit?usp=sharing 
 
-About the python code:-
+About the python code.
+
 map_scrapper.py -> This scraps the map webpage of the Delhi Urban Shelter Improvement Board and collects the google maps links of all.
 
 raw_plus_maps_data_compiler.py -> This combines the raw data available at http://delhishelterboard.in/occupancy-report/index-ag2.php (like capacity,district of the shelter) with the google maps links.
