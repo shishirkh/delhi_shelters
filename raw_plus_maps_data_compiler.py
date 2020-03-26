@@ -17,7 +17,7 @@ with open('link_and_code_26th_march.csv', 'r') as read_obj:
     link_data = list(csv_reader)
 
 link_data=link_data[1:]
-
+#central_data.csv -> the raw data from http://delhishelterboard.in/occupancy-report/index-ag2.php?fbclid=IwAR2ijXz5jACu4GheUdqgSY0_LwJhfapxcIzcFMrINXOfdxc4bqnLblPtPrI
 with open('central_data.csv', 'r') as read_obj:
     csv_reader = reader(read_obj)
     central_data = list(csv_reader)
